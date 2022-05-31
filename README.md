@@ -70,7 +70,7 @@ GIT Homework 1
 
     Esc :wq 
  
- 31. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
+ 11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
   
     $ cat > sklls.xml
   
@@ -86,23 +86,23 @@ GIT Homework 1
  
     Ctrl+C
  
- 32. Сделать коммит в одну строку.
+ 12. Сделать коммит в одну строку.
  
     $ git add preferences.xml sklls.xml && git commit -m "Add 2 files preferences.xml sklls.xml"
 
- 33. Отправить сразу 2 файла на внешний репозиторий.
+ 13. Отправить сразу 2 файла на внешний репозиторий.
  
     $ git push
  
- 34. На веб интерфейсе создать файл bug_report.xml.
+ 14. На веб интерфейсе создать файл bug_report.xml.
  
     Add file - Create new file - Commit new file
  
- 35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+ 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  
     Commit changes
  
- 36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
+ 16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
  
     Edit file bug_report.xml
  
@@ -129,10 +129,10 @@ GIT Homework 1
 	      <attachments></attachments>
         </bugreport>
 
- 37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+ 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  
     Commit changes
  
- 38. Синхронизировать внешний и локальный репозиторий XML
+ 18. Синхронизировать внешний и локальный репозиторий XML
   
     $ git pull
