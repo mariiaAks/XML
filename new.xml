@@ -1,0 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <personalInfo>
+    	<firstName>Мария</firstName>
+	<middleName>Романовна</middleName>
+	<lastName>Щербатова</lastName>
+	<amountPets>0</amountPets>
+	<futureSalary>100000</futureSalary>
+ </personalInfo>
