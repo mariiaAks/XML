@@ -18,5 +18,5 @@
 	  </environments>
 	  <expectedResult>"Widgets have a dotted line on all 4 sides</expectedResult>
 	  <actualResult>Widgets don't have dotted lines</actualResult>
-	  <attachments></attachments>
+	  <attachments/>
  </bugreport>
