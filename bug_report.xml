@@ -1,0 +1,22 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <bugreport>
+	  <bug_id>1</bug_id>
+	  <title>Dash line not visible on widget</title>
+	  <severity>major</severity>
+	  <priority>high</priority>
+	  <summary></summary>
+	  <preconditions>
+		    <precondition>Clear screen</precondition>
+	  </preconditions>
+	  <stepToReproduce>
+		    <step>Add several widgets</step>
+		    <step>Change size some widgets</step>
+	  </stepToReproduce>
+	  <environments>
+		    <environment>Redmi Note 7 MIUI 12.5.1.0 android 10 QKQ1.190910.002</environment>
+		    <environment>Honor 20 pro (YAL-L41), Android 10</environment>
+	  </environments>
+	  <expectedResult>"Widgets have a dotted line on all 4 sides</expectedResult>
+	  <actualResult>Widgets don't have dotted lines</actualResult>
+	  <attachments></attachments>
+ </bugreport>
