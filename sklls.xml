@@ -2,8 +2,8 @@
  <skills>
         <theory>что такое тестирование, багрепорты, документация, виды, методы, направления тестирования</theory>
 	<architecture>клиент-серверная архитектура, структура http запросов и ответов</architecture>
-	<API testing>Тестирование API через Postman</API testing>
-	<web testing>DevTools браузеров, снифинг web трафика через Charles и Fiddler</web testing>
-	<mobile testing>Android studio, перехват мобильного через Charles и Fiddler</mobile testing>
+	<API_testing>Тестирование API через Postman</API_testing>
+	<web_testing>DevTools браузеров, снифинг web трафика через Charles и Fiddler</web_testing>
+	<mobile_testing>Android studio, перехват мобильного через Charles и Fiddler</mobile_testing>
 	<database>Установка и настройка БД Postgres, основы SQL</database>
  </skills>
